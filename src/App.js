@@ -1,8 +1,8 @@
 import React from "react";
 
 const App = () => (
-  <div className="ui dividing header">
-    <h1>Velkommen til Kickoff 2019</h1>
+  <div className="jumbotron">
+    <h1 className="display-4">Auramar Beach Resort, Portugal</h1>
   </div>
 );
 
